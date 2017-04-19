@@ -2,7 +2,7 @@
 
 
 
-![Example Image1][1]
+![](http://upload-images.jianshu.io/upload_images/4037105-09a79c822c569bed.gif?imageMogr2/auto-orient/strip)
 
 ===========
 
@@ -57,7 +57,7 @@ new SpotsDialog(context, R.style.Custom).show();
 
 Result:
 
-![Example Image1][2]
+![](http://upload-images.jianshu.io/upload_images/4037105-5533538ec1519967.gif?imageMogr2/auto-orient/strip)
 
 如果想改变加载的文字，代码如下，默认是loading，英文的，想改成中文，代码如下:
 ```java
