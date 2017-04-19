@@ -17,7 +17,7 @@ allprojects {
     }
 }
 ```
-![image](jitpack.png)
+![](http://oi5nqn6ce.bkt.clouddn.com/itheima/booster/code/jitpack.png)
  
 在build.gradle添加依赖
 ```groovy
@@ -66,7 +66,7 @@ new SpotsDialog(context, "Завантаження").show();
 
 
 **Note:**
-On the pre-lollipop devices _DialogSpotColor_ item won't work. As workaround just override color in your resources.
+设置颜色代码如下.
 ```xml
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
@@ -74,4 +74,6 @@ On the pre-lollipop devices _DialogSpotColor_ item won't work. As workaround jus
 </resources>
 ```
 
+* 欢迎关注微信公众号、长期为您推荐优秀博文、开源项目、视频
 
+![](http://upload-images.jianshu.io/upload_images/4037105-8f737b5104dd0b5d.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
